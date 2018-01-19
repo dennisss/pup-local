@@ -2,7 +2,7 @@
 A simple facebook example with Puppeteer:
 https://github.com/GoogleChrome/puppeteer
 
-It will open a browser and visit https://www.google.com
+It will open a browser and visit http://nu.nl
 
 You can set ``headless: true`` if you don't want to launch a browser
 
