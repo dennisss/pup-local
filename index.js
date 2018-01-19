@@ -6,7 +6,7 @@ const local = require("./pup-local");
     headless: false
   });
   const page = await browser.newPage();
-  await page.goto('https://wwww.google.com', {
+  await page.goto('https://www.google.com', {
     waitUntil: 'networkidle2'
   });
   console.log("page loaded");
